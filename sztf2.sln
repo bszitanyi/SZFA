@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sztf2.Orokles", "sztf2.Orok
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sztf2.Interfeszek", "sztf2.Interfeszek\sztf2.Interfeszek.csproj", "{F4D5D4D7-C64A-4FF8-8B76-2B1FC51CA727}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sztf2.DelegatesEvents", "sztf2.DelegatesEvents\sztf2.DelegatesEvents.csproj", "{D2B6C2BA-42FD-4355-9043-6B6BD3AC0CF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F4D5D4D7-C64A-4FF8-8B76-2B1FC51CA727}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4D5D4D7-C64A-4FF8-8B76-2B1FC51CA727}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4D5D4D7-C64A-4FF8-8B76-2B1FC51CA727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B6C2BA-42FD-4355-9043-6B6BD3AC0CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B6C2BA-42FD-4355-9043-6B6BD3AC0CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B6C2BA-42FD-4355-9043-6B6BD3AC0CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B6C2BA-42FD-4355-9043-6B6BD3AC0CF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
